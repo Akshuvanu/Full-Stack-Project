@@ -53,11 +53,11 @@ The frontend will be available at http://localhost:4200.
 
 ## Endpoints
 
-- **GET** `/api/todos`: Retrieve all tasks
-- **GET** `/api/todos/{id}`: Retrieve a specific task by ID
-- **POST** `/api/todos`: Create a new task
-- **PUT** `/api/todos/{id}`: Update an existing task by ID
-- **DELETE** `/api/todos/{id}`: Delete a task by ID
+- **GET** `/api/tasks`: Retrieve all tasks
+- **GET** `/api/tasks/{id}`: Retrieve a specific task by ID
+- **POST** `/api/tasks`: Create a new task
+- **PUT** `/api/tasks/{id}`: Update an existing task by ID
+- **DELETE** `/api/tasks/{id}`: Delete a task by ID
 
 
 ## Contributing:
